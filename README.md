@@ -10,19 +10,10 @@ This is a boilerplate project for building Node.js applications using TypeScript
    npm install
    ```
 
-   or
-
-   ```bash
-   yarn install
-   ```
 
 2. **Start the development server:**
    ```bash
    npm run start:dev
-   ```
-   or
-   ```bash
-   yarn start:dev
    ```
 
 ### 📂 Explanation of Structure
