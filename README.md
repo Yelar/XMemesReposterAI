@@ -1,8 +1,8 @@
-# 🚀 Node.js TypeScript Boilerplate
-
-This is a boilerplate project for building Node.js applications using TypeScript. It includes a basic setup for Express.js, custom logging middleware, and route management.
+# 🚀 Node.js Automated meme scraper&reposter
+Script scrapes user defined subreddits and finds&reposts on twitter/X the most funny memes. You will need openAI api key to select funny posts from reddit.
 
 ## 📦 How to Start
+You can change subreddits by changing the contents of 'subreddits' array.
 
 1. **Install dependencies:**
 
